@@ -1,0 +1,9 @@
+# machine-learning
+## Implementações em R
+Esse repositório contém uma versão usando a linguagem/plataforma R dos exercícios de classificaçação do Livro [Machine Learning - Introdução à classifição](https://www.casadocodigo.com.br/products/livro-machine-learning) da [Casa do Código](https://www.casadocodigo.com.br/).
+
+### Dendências
+ - R (>= 3.4.2)
+ - caret (>= 6.0-77)
+ - dplyr (>= 0.7.4)
+ - data.table (>= 1.10.4-3)
