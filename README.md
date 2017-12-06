@@ -5,5 +5,4 @@ Esse repositório contém uma versão usando a linguagem/plataforma R dos exerc�
 ### Dendências
  - R (>= 3.4.2)
  - caret (>= 6.0-77)
- - dplyr (>= 0.7.4)
- - data.table (>= 1.10.4-3)
+ - naivebayes (>= 0.9.1)
