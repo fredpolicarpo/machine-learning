@@ -13,10 +13,8 @@ colnames(dados) = colunas
 
 marcacoes = factor(c(1, 1, 1, - 1, - 1, - 1))
 
-# Pacote caret no lugar no Scikitlearn
 library(caret)
 
-# Caret usa o nome do método como parâmetro da função, enquanto Scikitlearn cria um objeto
 method = 'naive_bayes'
 modelo = train(x = dados, y = marcacoes, method = method)
 
